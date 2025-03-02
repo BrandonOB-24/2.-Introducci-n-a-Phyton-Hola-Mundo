@@ -1,0 +1,15 @@
+Name = "Inteligencia Artificial 8vo semestre"
+
+print(Name)
+
+
+
+
+bienvenida = "Asombroso, es genial tenerte de vuelta"
+print(bienvenida)
+
+
+
+
+
+print("Asombroso, es genial tenerte de vuelta x2 y mas simplificado")
